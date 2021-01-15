@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "292122713473",
+    "project_id": "curso-firebase-a4b0c",
+    "storage_bucket": "curso-firebase-a4b0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292122713473:android:170ef9a6ebbc80ea7fdc80",
+        "android_client_info": {
+          "package_name": "com.code.apps.album"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292122713473-4hvbkuolmive3b2ghp8tn93fjvjf7bl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoiV6si4RXmGF1VF9M--QuRlfz_uhOX1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292122713473-4hvbkuolmive3b2ghp8tn93fjvjf7bl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292122713473:android:b49bc3f5fe0adeeb7fdc80",
+        "android_client_info": {
+          "package_name": "com.martin_code.fb_ofertas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292122713473-4hvbkuolmive3b2ghp8tn93fjvjf7bl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoiV6si4RXmGF1VF9M--QuRlfz_uhOX1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292122713473-4hvbkuolmive3b2ghp8tn93fjvjf7bl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
